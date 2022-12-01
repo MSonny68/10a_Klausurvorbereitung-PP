@@ -80,11 +80,15 @@ let a; // (var) Definition oder Deklaration
  //   https://github.com/01-PP/03_Entscheidungsstrukturen
 
 /* FUNKTIONEN */
+// 1. Kapselung
+// 
 
-function test() {
-    console.log("Testausgabe")
-}
-test();
+// 2. return
+//  console.log(test2());
+//  function test2() { // do something ...
+//     return "Testausgabe 2"; // Lieferung an die Stelle des calls
+//     console.log("Noch eine Ausgabe"); // nach return Abbruch!
+//  }
 
 
 
